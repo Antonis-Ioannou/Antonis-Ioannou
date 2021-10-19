@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Antonis
 - 👀 I’m interested in anything abt programming 
-- 🌱 I’m currently learning c#, asp.net mvc, entity framework, .net api 
+- 🌱 I’m currently working on c#, asp.net mvc, entity framework, webapis, javascript 
 - 💞️ I’m looking to collaborate on fun and innovative stuff
 - 📫 You can reach me at antonios.ioannou@protonmail.com
 
